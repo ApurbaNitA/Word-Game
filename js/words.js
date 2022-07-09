@@ -4,7 +4,7 @@ const wordList = [
         hint: "programming language"
     },
     {
-        word: "guiter",
+        word: "guitar",
         hint: "a musical instrument"
     },
     {
